@@ -23,7 +23,7 @@ Complete documentation for this SDK can be accessed here:
 
 Working demos are available for web browser and Node.js environments. Please refer to the [documentation](https://docs.barchart.com/marketdata-api-js/#/content/quick_start?id=demos).
 
-### Package Managers
+### Package Manager
 
 This library has been published to NPM as [@barchart/marketdata-api-js](https://www.npmjs.com/package/@barchart/marketdata-api-js). Install as follows:
 
